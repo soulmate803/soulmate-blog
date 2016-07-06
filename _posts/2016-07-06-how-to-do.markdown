@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "how to do"
+subtitle:   "通过github搭建博客"
+date:       2016-07-06 12:00:00
+author:     "Wang Dandi"
+header-img: "img/post-bg-07.jpg"
+---
+
+
+<p>顿顿不开心</p>
+
+<p>你想知道原因吗，就不告诉你.</p>
+
