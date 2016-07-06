@@ -1,8 +1,8 @@
 #dundun Blog by Wang Dandi - Jekyll Version
 
-The official Jekyll version of the dundun Blog theme by [Wang Dandi](https://soulmate803.github.io).
+The official Jekyll version of the dundun Blog theme by [Wang Dandi](https://soulmate803.github.io/soulmate-blog).
 
-###[View Live Demo &rarr;](https://soulmate803.github.io)
+###[View Live Demo &rarr;](https://soulmate803.github.io/soulmate-blog)
 
 ## Before You Begin
 
