@@ -20,4 +20,4 @@ header-img: "img/post-bg-03.jpg"
     <img src="{{ site.baseurl }}/img/post-dream-image1.jpeg" alt="Post Dream Image">
 </a>
 
-<p>“I have a dream“ is a very successful speech, and we can learn a lot of tips on speech through it.</p>
+<p>"I have a dream" is a very successful speech, and we can learn a lot of tips on speech through it.</p>
