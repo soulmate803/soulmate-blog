@@ -17,7 +17,7 @@ header-img: "img/post-bg-03.jpg"
 <p>As for the use of voice and body effectively, I think his voice was loud and contagious, and the speed of his speech was appropriately so that the audience can keep up with his space and have enough time to think about the central ideas. Unfortunately, the video can’t successfully play and the video of the URL didn’t contain enough of King’s camera, so I didn’t watch King’s body clearly. The only thing that I can remember is that he didn’t shave his body and he used his eye contact with his audience frequently. </p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-dream-image1.jpg" alt="Post Dream Image">
+    <img src="{{ site.baseurl }}/img/post-dream-image1.jpeg" alt="Post Dream Image">
 </a>
 
 <p>“I have a dream“ is a very successful speech, and we can learn a lot of tips on speech through it.</p>
