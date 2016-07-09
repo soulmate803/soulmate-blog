@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "The story between debate and me"
-subtitle:   "We predict too much for the next year and yet far too little for the next ten."
-date:       2014-08-24 12:00:00
+subtitle:   "I love debate, and it is closely related to my life."
+date:       2016-07-08 12:00:00
 author:     "Wang Dandi"
 header-img: "img/post-bg-04.jpg"
 ---

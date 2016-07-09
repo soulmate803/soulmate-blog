@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learn to say no"
 subtitle:   "the inability to say no can become a severe psychological problem, as we tend to forget to take care of ourselves and what we really want."
-date:       2016-07-08 12:00:00
+date:       2016-07-07 12:00:00
 author:     "Wang Dandi"
 header-img: "img/post-bg-06.jpg"
 ---
