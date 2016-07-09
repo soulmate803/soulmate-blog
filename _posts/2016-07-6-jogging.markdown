@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "The right way of jogging"
+subtitle:   "It’s said that half of people jog in wrong way, I will introduce you that what are the right way to run."
+date:       2016-07-06 12:00:00
+author:     "Wang Dandi"
+header-img: "img/post-bg-05.jpg"
+---
+
+<blockquote>When your friends mention their habits of jogging, what will come up to your mind? Will you ask: Are you trying to lose weight now? Or why not go swimming or play with balls? Despite these questions, you may still feel or actually say that, wow, that’s a good habit. The jogging may sound not cool but at least it can help to keep health.</blockquote>
+
+<p>Every day we can see groups of people jogging in the playground, however the reality is that many people jog in wrong way, which will lead to a variety of serious diseases if they keep on the wrong way for a long time. Statistics released by Harvard Gazette in 2014 has indicated that as to people who run almost every day, the injury rate ranged from thirty percent to eighty percent. That’s the reason why I get ready to introduce the knowledge of jogging.</P>
+
+<blockquote>According to Oxford Dictionary, jogging is an activity of running at a steady, gentle pace as a form of physical exercise. Another definition describes jogging as running slower than 6 miles per hour. Usually, the main intention is to increase physical fitness with less stress on the body than from faster running. If you want to start jogging, you should know the following three aspects.</blockquote>
+
+<h2 class="section-heading">Finding suitable time for jogging</h2>
+
+<p>The main importance is paying attention to your posture. When talking to jogging, some person maybe just think it as an exercise which faster than walking.Dr. Nicholas Romanov is a sports scientist with more than 40 years of research experience. It took him 25 years to create and perfect "jogging posture Law" system. According the system, the best posture is that straight ahead, shoulder easily put down, elbow bent 90 degrees and knee slightly bent to reduce bone damage. What’s more, according to a Harvard University survey, heel forefoot first landing have a significance difference in injury rates. The injury rates of joggers which accustomed to heel is twice as much as to the forefoot. In short, correct jogging posture is essential, otherwise we might be farther away from health.</p>
+
+<h2 class="section-heading">Setting your own speed and strength</h2>
+
+<p>Second,form your own style, such as speed, moment and length of time. Analyzing questionnaires of a Danish study, scientists concluded that the ideal pace was about 8km/h and you'd better to jog no more than three times a week or for 2.5 hours in total. However, it’s only for reference. We are supported to learn to adjust our body. It is necessary. Once you get into jogging you will develop a certain routine that will be comfortable for you. Researcher Jacob Louis Marott, from the Frederiksberg Hospital in Copenhagen, said: "You don't actually have to do that much to have a good impact on your health.” Try to run as long as you feel comfortable, as long as you can enjoy it. By the way, one of the biggest mistakes of most people is that when they start jogging, they prefer to run early in the morning. You need to listen to your body and find out what part of the day is ideal for your exercise, and when your body is asking for this exercise. Run for fun, as the way children do and enjoy it! If you do not want to get bored with jogging, try something new. Such as, find a new route, try speed jogging or long distance jogging, do intervals, run with music.</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-sample-image1.jpg" alt="Post Sample Image">
+</a>
+<span class="caption text-muted">Konwing what is your own speed and strength is important</span>
+
+<h2 class="section-heading">Wearing comfortable jogging apparel</h2>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-sample-image2.jpg" alt="Post Sample Image">
+</a>
+<span class="caption text-muted">The running shoes</span>
+
+<p>Now you have already known the correct posture and style of jogging on a regular basis. The last step is to choose and buy equipment. As I mentioned, jogging is a form of running at a slow pace. You don't need a lot of fancy gear. Running shoes and technical fabric running clothes are enough to make the exercise safer and more comfortable.Wearing old running shoes or shoes that are not suitable for you is a common cause of running injuries. Go to a running specialty store where experts can evaluate your foot type and running style and recommend right shoes for you. Wearing clothes made of a technical fabric will keep you dry and warm during cold weather jogging, and will prevent chafing in hot weather jogs. Avoiding cotton is important because once cotton fabrics get wet, they'll stay wet. And if possible, you might as well buy a sports watch. Beginner joggers don't need any fancy functions like tracking heart rate and pace, but a simple watch with a stop and start button which can be helpful to time your jogs and do intervals during races.Do not ignore the importance of equipment, otherwise you will find no matter what you do, your body will be sore, your lungs will feel like they’ve been ripped apart and you won’t see any fun in it.</p>
+
+<blockquote>Above all, it’s vital to pay attention to the posture, form your own style and choose a set of suitable equipment when you are planning to start jogging. Maybe you have some other tips, for example, at beginning with a gentle warm-up of at least five minutes, or giving yourself a few minutes to cool down by walking, and gently stretching your leg muscles after each jog. Welcome to share them with me and help everyone to avoid the harmful habits during jogging.</blockquote>

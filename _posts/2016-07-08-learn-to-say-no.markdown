@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learn to say no"
 subtitle:   "the inability to say no can become a severe psychological problem, as we tend to forget to take care of ourselves and what we really want."
-date:       2016-07-05 12:00:00
+date:       2016-07-08 12:00:00
 author:     "Wang Dandi"
 header-img: "img/post-bg-06.jpg"
 ---
@@ -18,6 +18,6 @@ header-img: "img/post-bg-06.jpg"
 
 <h2 class="section-heading">The solution</h2>
 
-<p>Do you want to change the situation and solve the problem? If so, here are some tips from a lesson of the University of Berkeley maybe can help you to reject properly [3]. Firstly, give yourself some time to consider whether you have enough time or energy to help others or not. Secondly, if we want to say no, we should be firm and polite. We just reject the demands of helping, and if we can tell our reason, others can understand and we can still have friendship with each. Finally, we must not feel guilty, we have the right of planning our schedule, and we have the right of rejection.</p>
+<p>Do you want to change the situation and solve the problem? If so, here are some tips from a lesson of the University of Berkeley maybe can help you to reject properly . Firstly, give yourself some time to consider whether you have enough time or energy to help others or not. Secondly, if we want to say no, we should be firm and polite. We just reject the demands of helping, and if we can tell our reason, others can understand and we can still have friendship with each. Finally, we must not feel guilty, we have the right of planning our schedule, and we have the right of rejection.</p>
 
 <p>All in all, the situation should be changed that we neglect the needs of ourselves while simultaneously trying desperately not to hurt others with our rejection. When next time you want to reject, please be brave enough to say no.</p>
