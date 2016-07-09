@@ -28,7 +28,7 @@ description: "This is what I write"
     </li>
     {% endif %}
 
-    {%if paginator.previous_page %}
+    {%if paginator.previous_page > 1 %}
     <li class="previous">
         <a href="/soulmate-blog/page{{ paginator.previous_page }}">&larr; Newer Posts</a>
     </li>
