@@ -27,15 +27,16 @@ description: "This is what I write"
         <a href="/soulmate-blog/page{{ paginator.previous_page }}">&larr; Newer Posts</a>
     </li>
     {% endif %}
-    {% if paginator.next_page > 1 %}
-    <li class="next">
-        <a href="/soulmate-blog/page{{ paginator.next_page }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
+    
     {% if paginator.next_page == 1 %}
     <li class="next">
         <a href="/soulmate-blog">Older Posts &rarr;</a>
     </li>
+    {% else if aginator.next_page %}
+    <li class="next">
+        <a href="/soulmate-blog/page{{ paginator.next_page }}">Older Posts &rarr;</a>
+    </li>
     {% endif %}
+
 </ul>
 {% endif %}
