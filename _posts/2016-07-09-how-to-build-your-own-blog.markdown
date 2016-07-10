@@ -210,6 +210,5 @@ header-img: "img/post-bg-07.jpg"
 
 <h1>视频操作教程：<a href="http://player.youku.com/player.php/sid/XMTYzODk0MzgyOA==/v.swf" alt="http://player.youku.com/player.php/sid/XMTYzODk0MzgyOA==/v.swf" >http://player.youku.com/player.php/sid/XMTYzODk0MzgyOA==/v.swf</a></h1>
 
-<embed src="http://player.youku.com/player.php/sid/XMTYzODk0MzgyOA==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">视频加载失败，请点击链接播放。</embed>
-
+<embed src="http://player.youku.com/player.php/sid/XMTYzODk0MzgyOA==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
 
