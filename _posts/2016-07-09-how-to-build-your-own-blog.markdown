@@ -8,7 +8,7 @@ header-img: "img/post-bg-07.jpg"
 ---
 
 
-<blockquote>几天的小学期经历让我们对于撘网站从不会成长为会那么一点点，老师的教程以及网上的教程都有或多或少的坑，让我们开启一篇新的也许没那么坑的教程贴吧。</blockquote>
+<blockquote>几天的小学期经历让我们对于撘网站从不会成长为会那么一点点，老师给的的教程以及网上的教程都有或多或少的坑，让我们开启一篇新的也许没那么坑的教程贴吧。</blockquote>
 
 <h2>1.注册Github账号</h2>
 
@@ -48,22 +48,39 @@ header-img: "img/post-bg-07.jpg"
 
 <h2>2.建立Guithub Page页面</h2>
 
-<h2>2.1 安装git工具 </h2>
+<h3>2.1 安装git工具 </h3>
 
-<a href="https://windows.github.com" alt="https://windows.github.com" >https://windows.github.com</a>
+<h1><a href="https://windows.github.com" alt="https://windows.github.com" >https://windows.github.com</a></h1>
 
-<a href="https://mac.github.com" alt="https://mac.github.com" >https://mac.github.com</a>
+<h1><a href="https://mac.github.com" alt="https://mac.github.com" >https://mac.github.com</a></h1>
 
-<a href="https://windows.github.com" alt="https://windows.github.com" >https://windows.github.com</a>
+<h1><a href="https://git-for-windows.github.com" alt="https://windows.github.com" >https://git-for-windows.github.com</a></h1>
 
-<h2>2.2 创建步骤 </h2>
+<h3>2.2 创建步骤 </h3>
 
+<h1>安装好相应软件之后，在开始菜单中找到Git Bash并打开，在打开的窗口（shll）内执行以下命令，设置你的git用户名和邮箱：</h1>
 
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build6.jpg" alt="Post Build Image">
+</a>
 
+<h1>为了和Github的远程仓库进行传输，需要进行SSH加密设置。在刚才打开的Shell内执行如下：</p>
 
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build7.jpg" alt="Post Build Image">
+</a>
 
+<h1>可以不输入其他信息，一直敲回车直到命令完成。 这时你的用户目录（win7以上系统默认在 C:\Users\你的计算机用户名）内会出现名为 .ssh 的文件夹，点进去能看到 id_rsa 和 id_rsa.pub 两个文件，其中 id_rsa 是私钥，不能让怪人拿走， id_rsa.pub 是公钥，无需保密。</h1>
 
+<h1>接下来用你的浏览器登录Github，点击右上角的“Settings”，用文字处理软件打开刚才的 id_rsa.pub 文件，复制全部内容。点击“SSH Keys”，“Add SSH Key”，任意取名之后，将复制的内容粘贴在Key中，点“Add Key”确定，SSH配置完毕。</h1>
 
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build8.jpg" alt="Post Build Image">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build9.jpg" alt="Post Build Image">
+</a>
 
 
 
