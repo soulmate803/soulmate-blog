@@ -20,7 +20,7 @@ header-img: "img/post-bg-07.jpg"
     <img src="{{ site.baseurl }}/img/build1.jpg" alt="Post Build Image">
 </a>
 
-<p>按要求填写用户名、注册邮箱和密码：</p>
+<h1>按要求填写用户名、注册邮箱和密码：</h1>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/build2.jpg" alt="Post Build Image">
