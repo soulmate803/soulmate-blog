@@ -10,6 +10,8 @@ header-img: "img/post-bg-07.jpg"
 
 <p>顿顿不开心</p>
 
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMTYzMzA1MTczMg==" frameborder=0 allowfullscreen></iframe>
+
 <p>你想知道原因吗，就不告诉你.</p>
 
 <video id="my_video_1" class="video-js vjs-default-skin" controls    preload="auto"width="640"height="480"poster="video-js/my_video_poster.png"    data-setup="{}">
