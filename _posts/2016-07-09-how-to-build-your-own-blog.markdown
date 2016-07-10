@@ -202,11 +202,11 @@ header-img: "img/post-bg-07.jpg"
 
 <h1>通过上述操作，个人主页搭建的相关操作都已完成。在本次搭建中，建立三个页面，实现主页展示，博客显示及个人简历三个页面间的跳转，希望你能从中得到帮助。</h1>
 
-<h1>个人主页：<a href="https://soulmate803.github.io" alt="https://soulmate803.github.io" >https://soulmate803.io</a></h1>
+<h1>个人主页：<a href="https://soulmate803.github.io" alt="https://soulmate803.github.io" >https://soulmate803.github.io</a></h1>
 
-<h1>博客：<a href="https://soulmate803.github.io/soulmate-blog" alt="https://soulmate803.github.io/soulmate-blog" >https://soulmate803.io/soulmate-blog</a></h1>
+<h1>博客：<a href="https://soulmate803.github.io/soulmate-blog" alt="https://soulmate803.github.io/soulmate-blog" >https://soulmate803.github.io/soulmate-blog</a></h1>
 
-<h1>简历：<a href="https://soulmate803.github.io/soulmate-resume" alt="https://soulmate803.github.io/soulmate-resume" >https://soulmate803.io/soulmate-resume</a></h1>
+<h1>简历：<a href="https://soulmate803.github.io/soulmate-resume" alt="https://soulmate803.github.io/soulmate-resume" >https://soulmate803.github.io/soulmate-resume</a></h1>
 
 <h1>视频操作教程：</h1>
 
