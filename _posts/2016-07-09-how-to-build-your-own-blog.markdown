@@ -208,37 +208,10 @@ header-img: "img/post-bg-07.jpg"
 
 <h1>简历：<a href="https://soulmate803.github.io/soulmate-resume" alt="https://soulmate803.github.io/soulmate-resume" >https://soulmate803.github.io/soulmate-resume</a></h1>
 
-<h1>视频操作教程：</h1>
+<h1>视频操作教程：<a href="" alt=""" ></a></h1>
+
+<embed src="http://player.youku.com/player.php/sid/XMTYzODkzOTc3Mg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 
 
 
-
-
-
-
-
-
-
-<p>顿顿不开心</p>
-
-<iframe height=498 width=510 src="http://player.youku.com/embed/XMTYzMzA1MTczMg==" frameborder=0 allowfullscreen></iframe>
-
-<p>你想知道原因吗，就不告诉你.</p>
-
-<video id="my_video_1" class="video-js vjs-default-skin" controls    preload="auto"width="640"height="480"poster="video-js/my_video_poster.png"    data-setup="{}">
-	<source src="{{ site.baseurl }}/text.mp4" type='video/mp4'> 
-</video>
-
-
-<script>
- if (navigator.userAgent.indexOf('Opera') >= 0){
-    document.getElementById("videoDiv").innerHTML='<embed src="{{ site.baseurl }}/text.mp4" autostart="true" loop="true" width="640" height="480" >';
-    }
-</script>
- 
-<script>
-    if (navigator.userAgent.indexOf('MSIE') >= 0){
-		document.getElementById("videoDiv").innerHTML='<embed src="{{ site.baseurl }}/text.mp4" autostart="true" loop="true" width="640" height="480" >';
-    }
-</script>
