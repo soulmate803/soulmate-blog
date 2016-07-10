@@ -18,6 +18,20 @@
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
 
+
+
+    <!-- Chang URLs to wherever Video.js files will be hosted -->
+    <link rel="stylesheet" href="{{ "/css/video-js.css" | prepend: site.baseurl }}" type="text/css">
+    <!-- video.js must be in the <head> for older IEs to work. -->
+     <script src="{{ "/js/video.js" | prepend: site.baseurl }}"></script>
+    <!-- Unless using the CDN hosted version, update the URL to the Flash SWF -->
+    <script>
+    videojs.options.flash.swf = "{{ "/video-js.swf" | prepend: site.baseurl }}";
+    </script>
+
+
+
+
     <!-- Custom Fonts -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
