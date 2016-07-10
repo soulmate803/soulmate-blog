@@ -110,7 +110,7 @@ header-img: "img/post-bg-07.jpg"
 
 <h3>3.2 创建本地版本库</h3>
 
-<h1>在本地创建一个名为username.github.io的空文件夹，在shell中进入该文件，输入git init，在文件夹中生成.git文件，并将之前修改后的本地页面相应文件添加其中，创建本地版本库。</h1>
+<h1>在本地创建一个名为username.github.io的空文件夹，在shell中进入该文件夹，输入git init，在文件夹中生成.git文件，并将之前修改后的本地页面相应文件添加至username.github.io文件夹中，创建本地版本库。</h1>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/build14.jpg" alt="Post Build Image">
@@ -153,6 +153,69 @@ header-img: "img/post-bg-07.jpg"
 <a href="#">
     <img src="{{ site.baseurl }}/img/build18.jpg" alt="Post Build Image">
 </a>
+
+<h2>4. 完善Github Page页</h2>
+
+<h3>4.1 修改已有页面</h3>
+
+<h1>在本地完成修改，查看本地效果无误之后，通过如下命令同步至Github上完成修改：</h3>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build19.jpg" alt="Post Build Image">
+</a>
+
+<h1>以添加jekyll模板的博客内容为例，打开本地仓库的 _posts 文件夹，所有博文都将放在这里，写新博文只需要新建一个标准文件名的文件，在文件中编写文章内容。 例如fork的模版中 _posts 文件夹里有一篇 2016-03-23-hello-world.markdown，你的文件命名也要严格遵循“年-月-日-文章标题.文档格式”这样的格式，尤其要注意月份和日期一定是两位数。之后同步至Github上即可更新博客内容。</h1>
+
+<h3>4.2 添加多个Github Page页</h3>
+
+<h1>根据官方文档，GitHub Pages分为两类:个人/组织主页以及项目主页，两者基本上没啥区别，但是有以下几点不同:</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build20.jpg" alt="Post Build Image">
+</a>
+
+<h1>从以上可知，只需要建立多个项目主页即可达到目的，操作与个人主页类似，具体如下：</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build21.jpg" alt="Post Build Image">
+</a>
+
+<h1>以建立username-blog仓库为例，与上述操作相同，将本地仓库同步至对应仓库，可实现目的。</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build22.jpg" alt="Post Build Image">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build23.jpg" alt="Post Build Image">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build24.jpg" alt="Post Build Image">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build25.jpg" alt="Post Build Image">
+</a>
+
+<h2>5. 结语</h2>
+
+<h1>通过上述操作，个人主页搭建的相关操作都已完成。在本次搭建中，建立三个页面，实现主页展示，博客显示及个人简历三个页面间的跳转，希望你能从中得到帮助。</h1>
+
+<h1>个人主页：<a href="https://soulmate803.github.io" alt="https://soulmate803.github.io" >https://soulmate803.io</a></h1>
+
+<h1>博客：<a href="https://soulmate803.github.io/soulmate-blog" alt="https://soulmate803.github.io/soulmate-blog" >https://soulmate803.io/soulmate-blog</a></h1>
+
+<h1>简历：<a href="https://soulmate803.github.io/soulmate-resume" alt="https://soulmate803.github.io/soulmate-resume" >https://soulmate803.io/soulmate-resume</a></h1>
+
+<h1>视频操作教程：</h1>
+
+
+
+
+
+
+
 
 
 
