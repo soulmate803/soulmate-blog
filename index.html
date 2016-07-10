@@ -3,6 +3,8 @@ layout: page
 description: "This is what I write"
 ---
 
+<!--遍历文章数，在首页显示-->
+
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -19,7 +21,7 @@ description: "This is what I write"
 <hr>
 {% endfor %}
 
-<!-- Pager -->
+<!-- 文章数大于每页最多显示文章数时，分页显示-->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page == 1 %}

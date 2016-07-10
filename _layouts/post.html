@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-<!-- Post Header -->
+<!-- 文章标题显示 -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
@@ -29,7 +29,7 @@ layout: default
 				{{ content }}
 
                 <hr>
-
+								<!--上一篇、下一篇跳转-->
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">

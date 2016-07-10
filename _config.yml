@@ -3,12 +3,10 @@ title: Blog
 header-img: img/home-bg1.jpg
 email: 944296934@qq.com
 copyright_name: soulmate803
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "顿顿的个人博客"
 baseurl: "https://soulmate803.github.io/soulmate-blog"
 url: "/soulmate-blog"
-twitter_username: soulmate803
 github_username:  soulmate803
-facebook_username:  soulmate803
 email_username:  944296934@qq.com
 
 # Google Analytics
