@@ -16,6 +16,8 @@ header-img: "img/post-bg-07.jpg"
 	<source src="{{ site.baseurl }}/text.mp4" type='video/mp4'> 
 </video>
 
+<iframe height=498 width=510 src="{{ site.baseurl }}/text.mp4"></iframe>
+
 <script>
  if (navigator.userAgent.indexOf('Opera') >= 0){
     document.getElementById("videoDiv").innerHTML='<embed src="{{ site.baseurl }}/text.mp4" autostart="true" loop="true" width="640" height="480" >';
