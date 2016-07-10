@@ -20,10 +20,10 @@ header-img: "img/post-bg-07.jpg"
  if (navigator.userAgent.indexOf('Opera') >= 0){
     document.getElementById("videoDiv").innerHTML='<embed src="{{ site.baseurl }}/text.mp4" autostart="true" loop="true" width="640" height="480" >';
     }
- </script>
+</script>
  
- <script>
+<script>
     if (navigator.userAgent.indexOf('MSIE') >= 0){
 		document.getElementById("videoDiv").innerHTML='<embed src="{{ site.baseurl }}/text.mp4" autostart="true" loop="true" width="640" height="480" >';
     }
- </script>
+</script>
