@@ -10,11 +10,9 @@ header-img: "img/post-bg-07.jpg"
 
 <blockquote>几天的小学期经历让我们对于撘网站从不会成长为会那么一点点，老师的教程以及网上的教程都有或多或少的坑，让我们开启一篇新的也许没那么坑的教程贴吧。</blockquote>
 
-<h2>注册Github账号</h2>
+<h2>1.注册Github账号</h2>
 
-<h1>既然本次采用的是将个人博客部署到github上，第一步当然是到<a href="https://github.com" alt="https://github.com" >github官方网站</a>注册账号，一定要牢记自己的用户名哟。</h1>
-
-<h1>如果你已经有账号和密码，那么点击右上角的sign in 直接登录，如果没有可以按照以下步骤进行注册。</h1>
+<h1>既然本次采用的是将个人博客部署到github上，第一步当然是到<a href="https://github.com" alt="https://github.com" >github官方网站</a>注册账号，一定要牢记自己的用户名哟。如果你已经有账号和密码，那么点击右上角的sign in 直接登录，如果没有可以按照以下步骤进行注册。</h1>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/build1.jpg" alt="Post Build Image">
@@ -48,7 +46,17 @@ header-img: "img/post-bg-07.jpg"
     <img src="{{ site.baseurl }}/img/build5.jpg" alt="Post Build Image">
 </a>
 
+<h2>2.建立Guithub Page页面</h2>
 
+<h2>2.1 安装git工具 </h2>
+
+<a href="https://windows.github.com" alt="https://windows.github.com" >https://windows.github.com</a>
+
+<a href="https://mac.github.com" alt="https://mac.github.com" >https://mac.github.com</a>
+
+<a href="https://windows.github.com" alt="https://windows.github.com" >https://windows.github.com</a>
+
+<h2>2.2 创建步骤 </h2>
 
 
 
