@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "how to bulid your own blog"
-subtitle:   "通过github搭建博客"
+subtitle:   "通过github搭建个人主页"
 date:       2016-07-09 12:00:00
 author:     "Wang Dandi"
 header-img: "img/post-bg-07.jpg"
@@ -12,7 +12,7 @@ header-img: "img/post-bg-07.jpg"
 
 <h2>1.注册Github账号</h2>
 
-<h1>既然本次采用的是将个人博客部署到github上，第一步当然是到<a href="https://github.com" alt="https://github.com" >github官方网站</a>注册账号，一定要牢记自己的用户名哟。如果你已经有账号和密码，那么点击右上角的sign in 直接登录，如果没有可以按照以下步骤进行注册。</h1>
+<h1>既然本次采用的是将个人主页部署到github上，第一步当然是到<a href="https://github.com" alt="https://github.com" >github官方网站</a>注册账号，一定要牢记自己的用户名哟。如果你已经有账号和密码，那么点击右上角的sign in 直接登录，如果没有可以按照以下步骤进行注册。</h1>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/build1.jpg" alt="Post Build Image">
@@ -82,9 +82,33 @@ header-img: "img/post-bg-07.jpg"
     <img src="{{ site.baseurl }}/img/build9.jpg" alt="Post Build Image">
 </a>
 
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build10.jpg" alt="Post Build Image">
+</a>
 
+<h2>3.建立Github Page页</h2>
 
+<blockquote>可通过直接从别人的github页面中fork需要的jekyll模板，但此方法较为简单，不利于本次学习html语言的初衷及目的，因而不采用此方法。以下教程为将下载的bootstrap框架部署至github上的具体相关操作，尽量写的简单明了。</blockquote>
 
+<h3>3.1 建立本地页面</h3>
+
+<h1>建立本地页面可以上网下载Bootstrap框架，挑选自己喜欢的网站下载至本地，可用eclipse修改。新建Dynamic Web Project，配置服务器，将下载的框架文件夹添加至WebContent中。</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build11.jpg" alt="Post Build Image">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build12.jpg" alt="Post Build Image">
+</a>
+
+<h1>打开文件，进行修改，直至获得自己想要的结果，可通过运行index.html页面查看本地效果。至此，本地页面搭建成功。</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build13.jpg" alt="Post Build Image">
+</a>
+
+<h3>3.2 与远程仓库建立连接
 
 
 
