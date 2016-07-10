@@ -108,8 +108,51 @@ header-img: "img/post-bg-07.jpg"
     <img src="{{ site.baseurl }}/img/build13.jpg" alt="Post Build Image">
 </a>
 
-<h3>3.2 与远程仓库建立连接
+<h3>3.2 创建本地版本库</h3>
 
+<h1>在本地创建一个名为username.github.io的空文件夹，在shell中进入该文件，输入git init，在文件夹中生成.git文件，并将之前修改后的本地页面相应文件添加其中，创建本地版本库。</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build14.jpg" alt="Post Build Image">
+</a>
+
+<h1>上述步骤只是将文件添加到相应的文件夹中，并未添加到仓库，可通过以下操作来将其放入git 仓库：</h1>
+
+<h1>$ git add .</h1>
+<h1>$ git commit -m "wdd"</h1>
+
+<h1>简单解释一下git commit命令，-m后面输入的是本次提交的说明，可以输入任意内容，当然最好是有意义的，这样你就能从历史记录里方便地找到改动记录。git commit命令执行成功后会告诉你gitc仓库里哪些文件被修改。</h1>
+
+
+<h3>3.3 同步至远程仓库 </h3>
+
+<h1>在本地创建Git仓库之后，可在Github上也创建一个Git仓库，实现部署。首先，登陆GitHub，然后，在右上角找到“Create a new repo”按钮，创建一个新的仓库:</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build15.jpg" alt="Post Build Image">
+</a>
+
+<h1>如上图所示，在Repository name中填写username.gitub.io，创建新的远程库。添加远程库。目前，在GitHub上的这个learngit仓库还是空的，GitHub告诉我们，可以从这个仓库克隆出新的仓库，也可以把一个已有的本地仓库与之关联，然后，把本地仓库的内容推送到GitHub仓库。现在，在本地的username.github.io仓库下运行命令：</h1>
+
+<h1>$ git remote add origin git@github.com:username/username.github.io.git</h1>
+
+<h1>请千万注意，把上面的username替换成你自己的GitHub账户名，否则，以后的推送将不能成功。添加后，远程库的名字就是origin，这是Git默认的叫法，也可以改成别的，但是origin这个名字一看就知道是远程库。下一步，就可以把本地库的所有内容推送到远程库上：</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build16.jpg" alt="Post Build Image">
+</a>
+
+<h1>把本地库的内容推送到远程，用git push命令，实际上是把当前分支master推送到远程。由于远程库是空的，我们第一次推送master分支时，加上了-u参数，Git不但会把本地的master分支内容推送的远程新的master分支，还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令。推送成功后，可以立刻在GitHub页面中看到远程库的内容已经和本地一模一样：</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build17.jpg" alt="Post Build Image">
+</a>
+
+<h1>此时，已将本地仓库推送至Github，可打开链接查看部署后的页面：</h1>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/build18.jpg" alt="Post Build Image">
+</a>
 
 
 
