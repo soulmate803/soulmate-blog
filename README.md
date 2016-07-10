@@ -1,21 +1,8 @@
-#dundun Blog by Wang Dandi - Jekyll Version
+顿顿的博客
 
-The official Jekyll version of the dundun Blog theme by [Wang Dandi](https://soulmate803.github.io/soulmate-blog/).
+为了便于展示功能，每页显示文章数设置为2，如需更改可在_config.yml中进行修改。
 
-###[View Live Demo &rarr;](https://https://soulmate803.github.io/soulmate-blog/)
+本博客可实现文章显示，上下页跳转，文章上下篇跳转等功能，同时，可通过链接提示跳转至个人主页及简历。
 
-## Before You Begin
-
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
-
-It should look like this:
-`baseurl: ""`
-
-## What's Included
-
-A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
-
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to apply the MIT license, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
+博客搭建的时间不长，文章内容均来自英语课程中所撰写的文章，感谢阅读，希望能提供宝贵意见。
 
