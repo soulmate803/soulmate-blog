@@ -12,7 +12,7 @@ header-img: "img/post-bg-07.jpg"
 
 <h2>注册Github账号</h2>
 
-<h1>既然本次采用的是将个人博客部署到github上，第一步当然是到<a href="https://github.com">github官方网站</a>注册账号，一定要牢记自己的用户名哟。</h1>
+<h1>既然本次采用的是将个人博客部署到github上，第一步当然是到<a href="https://github.com" alt="https://github.com" >github官方网站</a>注册账号，一定要牢记自己的用户名哟。</h1>
 
 <h1>如果你已经有账号和密码，那么点击右上角的sign in 直接登录，如果没有可以按照以下步骤进行注册。</h1>
 
